@@ -1,14 +1,20 @@
-﻿{
-  "name": "libraryapp-react-nodejs",
+{
+  "name": "y",
   "version": "1.0.0",
-  "description": "",
+  "description": "frontend react , backend node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UmutUlupinar/LibraryApp-React-Nodejs.git"
+    "url": "git+https://github.com/UmutUlupinar/LibraryApp-React-Nodejs.git"
   },
-  "private": true
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmutUlupinar/LibraryApp-React-Nodejs/issues"
+  },
+  "homepage": "https://github.com/UmutUlupinar/LibraryApp-React-Nodejs#readme"
 }
