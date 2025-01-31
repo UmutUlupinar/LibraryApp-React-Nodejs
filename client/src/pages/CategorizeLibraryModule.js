@@ -1,6 +1,6 @@
 ﻿import React from 'react';
 
-function CategorizePage() {
+function CategorizeLibraryModule() {
     return (
         <div>
             <h1>Kategorileri Düzenle</h1>
@@ -9,4 +9,4 @@ function CategorizePage() {
     );
 }
 
-export default CategorizePage;
+export default CategorizeLibraryModule;
